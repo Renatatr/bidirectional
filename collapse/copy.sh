@@ -1,9 +1,5 @@
 #!/bin/bash
  
-# created     : 2018/12/28
-# last update : 2021/02/10
-# author      : breno <breno@dfi.uem.br>
-# notes       : 
 LANG=en_us 
 I=5
 for J in $(seq 5 1 30)
